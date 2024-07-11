@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **MERN Stack and C++(DSA)**
 
-- 👨‍💻 All of my projects are available at [https://dushyant29011.netlify.app/index.html](https://dushyant29011.netlify.app/index.html)
-
 - 💬 Ask me about **Frontend Development(MERN)**
 
 - 📫 How to reach me **singhdushyant2901@gmail.com**
